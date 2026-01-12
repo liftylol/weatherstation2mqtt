@@ -82,5 +82,8 @@ All settings (MQTT Broker, Topic, Credentials) are managed via the **Web UI**.
 * **Settings File:** Configuration is saved to `config.json`.
 * **Reset:** To reset settings, delete `config.json` and restart the container/script.
 
+* <img width="938" height="925" alt="image" src="https://github.com/user-attachments/assets/7c56614b-73c7-49f7-98b1-4718c5c60356" />
+
+
 ## ❤️ Contributing
 Feel free to fork this project and submit PRs for other weather stations!
